@@ -3,7 +3,7 @@ public class sal{
 
         double salary,da,hra,cca,pf,pt,basic;
         double gross,net;
-        String empnam = "Advay Kadam";
+        String empnam = "Advay Gothiwarekar";
         int empno = 6969;
         basic = 59300;
         da = 0.7 * basic;
